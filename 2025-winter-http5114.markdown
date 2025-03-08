@@ -12,7 +12,7 @@ More changes from cloning.
 
 |                                                    | Name                   | Profile                                             |
 | -------------------------------------------------- | ---------------------- | --------------------------------------------------- |
-
+| ![Dhruv Yadav](images/busy-looping.jpeg) | Dhruv Yadav | [Busy-Looping](students/busy-looping.markdown) |
 
 ### Faculty
 
